@@ -119,18 +119,34 @@ Staff in ERLC are held to **higher standards** than regular players.
 
 ## 7. Offense & Punishment Guide
 
-| Offense Type | Examples | Typical Punishment |
-|--------------|---------|-----------------|
-| **Minor RP Violation** | Ignoring RP rules, minor IC misconduct | Verbal warning / kick |
-| **Harassment / Toxic Behavior** | Offensive language, targeted trolling | Kick / temp ban |
-| **Abuse of Powers / Exploits** | Admin abuse, command misuse, exploiting game mechanics | Temp or permanent ban |
-| **Metagaming / Powergaming** | Using OOC knowledge IC, forced unrealistic outcomes | Verbal warning / kick |
-| **Failing Roleplay / Noncompliance** | Not following RP scenarios, refusing orders | Warning / kick |
-| **Scamming / Theft RP Violation** | Exploiting RP rules to gain advantage | Temp ban |
-| **Threats / Harassment Outside Game** | Doxxing, threats via Discord or other platforms | Permanent ban |
-| **Disruption / Spam** | Spamming chat, trolling multiple players | Kick / temp ban |
-| **Team or Staff Impersonation** | Pretending to be staff or higher rank | Temp or permanent ban |
-| **Major Exploits / Glitch Abuse** | Using bugs to bypass rules or gain advantage | Permanent ban |
+| Offense Type | Typical Punishment |
+|--------------|-----------------|
+| **Minor RP Violation** | Verbal warning / kick |
+| **Harassment / Toxic Behavior** | Kick / temp ban |
+| **Abuse of Powers / Exploits** | Temp or permanent ban |
+| **Metagaming / Powergaming** | Verbal warning / kick |
+| **Failing Roleplay / Noncompliance** | Warning / kick |
+| **Scamming / Theft RP Violation** | Temp ban |
+| **Threats / Harassment Outside Game** | Permanent ban |
+| **Disruption / Spam** | Kick / temp ban |
+| **Team or Staff Impersonation** | Temp or permanent ban |
+| **Major Exploits / Glitch Abuse** | Permanent ban |
+| **Breaking laws as an LEO** | Warning |
+| **New Life Rule** | Warning |
+| **Failed to roleplay a minor crash (<30mph)** | Warning |
+| **Auto Jailing** | Kick |
+| **Minor RDM (affected 1 player)** | Warning |
+| **VDM** | Warning |
+| **Minor Tool Abuse (Cones, Barriers)** | Warning |
+| **RDM (Affected 2-3 players)** | Kick |
+| **Breaking Peacetimer** | Kick |
+| **Refusing to join discord** | Kick |
+| **Disrupting an ongoing scene** | Kick |
+| **Member Disrespect** | Kick |
+| **Mass Tool Abuse (Stop sticks & Spike Strips)** | Kick |
+| **GTA Driving** | Kick |
+| **Failed to roleplay a major crash (>30MPH)** | Kick |
+| **Staff Disrespect** | Kick |
 
 > Staff must document all offenses, provide evidence, and follow the ladder unless immediate action is required.
 
